@@ -93,4 +93,5 @@ first year of study are particularly at risk.'
 
 axtext.text(.5,.5,textexplain, **text_kwargs)
 plt.axis('off')
-plt.savefig("22085312.png", format="png", dpi=300)
+#plt.savefig("22085312.png", format="png", dpi=300)
+plt.show()
